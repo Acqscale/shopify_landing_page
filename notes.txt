@@ -1,0 +1,15 @@
+- gcp different buckets to hold different images, when u change code u change which bucket it is pointing to 
+- change which bucket code is pointing to programmatically somehow by changing a config file or something 
+
+
+Hydrogen:
+- Built-in caching controls to handle dynamic content and minimize API calls for speed and performance.
+- Server-side rendering to optimize the initial load.
+- React Server Components
+- integrate with shopify storefront API, graphql 
+
+
+General:
+- have to run npm install node for some reason
+- dont expose secrets 
+- npm run build, npm run start 
