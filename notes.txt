@@ -12,4 +12,7 @@ Hydrogen:
 General:
 - have to run npm install node for some reason
 - dont expose secrets 
-- npm run build, npm run start 
+- npm i --legacy-peer-deps
+- npm install node
+- npm run build, npm run serve
+- add env variables 
